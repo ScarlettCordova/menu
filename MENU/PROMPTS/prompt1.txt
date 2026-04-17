@@ -1,0 +1,5 @@
+1. Actúa como diseñador gráfico, mejora la parte visual, dandole un aspecto de portafolio, es decir, esto va a ser un menú q contendrá todos los proyectos desarrollados por mi, hazle con una gama de colores celestes pastel, modifica el html. recuerda que esto debe ser responsive
+
+2. El html y el js deben ir separados
+
+3. Sin js. solo html y css
